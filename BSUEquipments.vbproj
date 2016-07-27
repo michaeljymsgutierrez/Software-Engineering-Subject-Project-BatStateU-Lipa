@@ -1,0 +1,392 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{7C1F6608-CE66-4A9D-890C-BC7354545F73}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>BSUEquipments.My.MyApplication</StartupObject>
+    <RootNamespace>BSUEquipments</RootNamespace>
+    <AssemblyName>BSUEquipments</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>BSUEquipments.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>BSUEquipments.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>BSU_up.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.ReportViewer.Common, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+    <Reference Include="Microsoft.ReportViewer.WinForms, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL" />
+    <Reference Include="Microsoft.VisualBasic.PowerPacks.Vs, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Adminpin.Designer.vb">
+      <DependentUpon>Adminpin.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Adminpin.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BSU.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BSU.Designer.vb">
+      <DependentUpon>BSU.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Cashier_Registrar_printers_speakersDataSet.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Cashier_Registrar_printers_speakersDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Cashier_Registrar_printers_speakersDataSet.vb">
+      <DependentUpon>Cashier_Registrar_printers_speakersDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Cashier_Registrar_systemunitsDataSet.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Cashier_Registrar_systemunitsDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Ciscolabsu.Designer.vb">
+      <DependentUpon>Ciscolabsu.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Ciscolabsu.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CISCOlab_routers_switchesDataSet.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>CISCOlab_routers_switchesDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="CISCOlab_systemunitsDataSet.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>CISCOlab_systemunitsDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="CISCOrs.Designer.vb">
+      <DependentUpon>CISCOrs.vb</DependentUpon>
+    </Compile>
+    <Compile Include="CISCOrs.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CRps.Designer.vb">
+      <DependentUpon>CRps.vb</DependentUpon>
+    </Compile>
+    <Compile Include="CRps.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CRsu.Designer.vb">
+      <DependentUpon>CRsu.vb</DependentUpon>
+    </Compile>
+    <Compile Include="CRsu.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GAsu.Designer.vb">
+      <DependentUpon>GAsu.vb</DependentUpon>
+    </Compile>
+    <Compile Include="GAsu.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Guidance_Admission_systemunitsDataSet.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Guidance_Admission_systemunitsDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="ICTpps.Designer.vb">
+      <DependentUpon>ICTpps.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ICTpps.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ICT_IGP Print.Designer.vb">
+      <DependentUpon>ICT_IGP Print.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ICT_IGP Print.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ICT_projectors_printers_speakersDataSet.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>ICT_projectors_printers_speakersDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="ICT_systemunitsDataSet.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>ICT_systemunitsDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="Pin.Designer.vb">
+      <DependentUpon>Pin.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Pin.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Softlabsuprint.Designer.vb">
+      <DependentUpon>Softlabsuprint.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Softlabsuprint.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SoftLAB_systemunitsDataSet.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>SoftLAB_systemunitsDataSet.xsd</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Adminpin.resx">
+      <DependentUpon>Adminpin.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BSU.resx">
+      <DependentUpon>BSU.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ciscolabsu.resx">
+      <DependentUpon>Ciscolabsu.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CISCOrs.resx">
+      <DependentUpon>CISCOrs.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CRps.resx">
+      <DependentUpon>CRps.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CRsu.resx">
+      <DependentUpon>CRsu.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GAsu.resx">
+      <DependentUpon>GAsu.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ICTpps.resx">
+      <DependentUpon>ICTpps.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ICT_IGP Print.resx">
+      <DependentUpon>ICT_IGP Print.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ICT_IGP Print.vb.rdlc" />
+    <EmbeddedResource Include="ICTpps.rdlc" />
+    <EmbeddedResource Include="Ciscolabsu.rdlc" />
+    <EmbeddedResource Include="CISCOrs.rdlc" />
+    <EmbeddedResource Include="CRsu.rdlc" />
+    <EmbeddedResource Include="CRps.rdlc" />
+    <EmbeddedResource Include="GAsu.rdlc" />
+    <EmbeddedResource Include="Pin.resx">
+      <DependentUpon>Pin.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Softlabsuprint.rdlc" />
+    <EmbeddedResource Include="Softlabsuprint.resx">
+      <DependentUpon>Softlabsuprint.vb</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="app.config" />
+    <None Include="Cashier_Registrar_printers_speakersDataSet.xsc">
+      <DependentUpon>Cashier_Registrar_printers_speakersDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="Cashier_Registrar_printers_speakersDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>Cashier_Registrar_printers_speakersDataSet.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Cashier_Registrar_printers_speakersDataSet.xss">
+      <DependentUpon>Cashier_Registrar_printers_speakersDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="Cashier_Registrar_systemunitsDataSet.xsc">
+      <DependentUpon>Cashier_Registrar_systemunitsDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="Cashier_Registrar_systemunitsDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>Cashier_Registrar_systemunitsDataSet.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Cashier_Registrar_systemunitsDataSet.xss">
+      <DependentUpon>Cashier_Registrar_systemunitsDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="CISCOlab_routers_switchesDataSet.xsc">
+      <DependentUpon>CISCOlab_routers_switchesDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="CISCOlab_routers_switchesDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>CISCOlab_routers_switchesDataSet.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="CISCOlab_routers_switchesDataSet.xss">
+      <DependentUpon>CISCOlab_routers_switchesDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="CISCOlab_systemunitsDataSet.xsc">
+      <DependentUpon>CISCOlab_systemunitsDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="CISCOlab_systemunitsDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>CISCOlab_systemunitsDataSet.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="CISCOlab_systemunitsDataSet.xss">
+      <DependentUpon>CISCOlab_systemunitsDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="Guidance_Admission_systemunitsDataSet.xsc">
+      <DependentUpon>Guidance_Admission_systemunitsDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="Guidance_Admission_systemunitsDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>Guidance_Admission_systemunitsDataSet.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Guidance_Admission_systemunitsDataSet.xss">
+      <DependentUpon>Guidance_Admission_systemunitsDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="ICT_projectors_printers_speakersDataSet.xsc">
+      <DependentUpon>ICT_projectors_printers_speakersDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="ICT_projectors_printers_speakersDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>ICT_projectors_printers_speakersDataSet.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="ICT_projectors_printers_speakersDataSet.xss">
+      <DependentUpon>ICT_projectors_printers_speakersDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="ICT_systemunitsDataSet.xsc">
+      <DependentUpon>ICT_systemunitsDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="ICT_systemunitsDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>ICT_systemunitsDataSet.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="ICT_systemunitsDataSet.xss">
+      <DependentUpon>ICT_systemunitsDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="SoftLAB_systemunitsDataSet.xsc">
+      <DependentUpon>SoftLAB_systemunitsDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="SoftLAB_systemunitsDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>SoftLAB_systemunitsDataSet.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="SoftLAB_systemunitsDataSet.xss">
+      <DependentUpon>SoftLAB_systemunitsDataSet.xsd</DependentUpon>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="BSU_up.ico" />
+    <Content Include="Cashier_Registrar_printers-speakers.accdb">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Cashier_Registrar_systemunits.accdb">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="CISCOlab_routers_switches.accdb">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="CISCOlab_systemunits.accdb">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Guidance_Admission_systemunits.accdb">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="ICT_projectors-printers-speakers.accdb">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="ICT_systemunits.accdb">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="SoftLAB_systemunits.accdb">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
