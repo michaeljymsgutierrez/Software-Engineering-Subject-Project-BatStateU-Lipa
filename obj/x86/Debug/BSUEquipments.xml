@@ -1,0 +1,440 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+BSUEquipments
+</name>
+</assembly>
+<members>
+<member name="T:BSUEquipments.Cashier_Registrar_systemunitsDataSet.CashierandReg_suDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:BSUEquipments.Cashier_Registrar_systemunitsDataSet.CashierandReg_suRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:BSUEquipments.Cashier_Registrar_systemunitsDataSet.CashierandReg_suRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:BSUEquipments.Cashier_Registrar_systemunitsDataSet">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:BSUEquipments.Cashier_Registrar_systemunitsDataSetTableAdapters.CashierandReg_suTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:BSUEquipments.Cashier_Registrar_systemunitsDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(BSUEquipments.Cashier_Registrar_systemunitsDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:BSUEquipments.Cashier_Registrar_systemunitsDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(BSUEquipments.Cashier_Registrar_systemunitsDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:BSUEquipments.Cashier_Registrar_systemunitsDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(BSUEquipments.Cashier_Registrar_systemunitsDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:BSUEquipments.Cashier_Registrar_systemunitsDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:BSUEquipments.Cashier_Registrar_systemunitsDataSetTableAdapters.TableAdapterManager.UpdateAll(BSUEquipments.Cashier_Registrar_systemunitsDataSet)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:BSUEquipments.Cashier_Registrar_systemunitsDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:BSUEquipments.Cashier_Registrar_systemunitsDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:BSUEquipments.Cashier_Registrar_systemunitsDataSetTableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="T:BSUEquipments.CISCOlab_routers_switchesDataSet.CISCOlab_routers_switchesDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:BSUEquipments.CISCOlab_routers_switchesDataSet.CISCOlab_routers_switchesRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:BSUEquipments.CISCOlab_routers_switchesDataSet.CISCOlab_routers_switchesRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:BSUEquipments.CISCOlab_routers_switchesDataSet">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:BSUEquipments.CISCOlab_routers_switchesDataSetTableAdapters.CISCOlab_routers_switchesTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:BSUEquipments.CISCOlab_routers_switchesDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(BSUEquipments.CISCOlab_routers_switchesDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:BSUEquipments.CISCOlab_routers_switchesDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(BSUEquipments.CISCOlab_routers_switchesDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:BSUEquipments.CISCOlab_routers_switchesDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(BSUEquipments.CISCOlab_routers_switchesDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:BSUEquipments.CISCOlab_routers_switchesDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:BSUEquipments.CISCOlab_routers_switchesDataSetTableAdapters.TableAdapterManager.UpdateAll(BSUEquipments.CISCOlab_routers_switchesDataSet)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:BSUEquipments.CISCOlab_routers_switchesDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:BSUEquipments.CISCOlab_routers_switchesDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:BSUEquipments.CISCOlab_routers_switchesDataSetTableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="T:BSUEquipments.CISCOlab_systemunitsDataSet.CISCOlabDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:BSUEquipments.CISCOlab_systemunitsDataSet.CISCOlabRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:BSUEquipments.CISCOlab_systemunitsDataSet.CISCOlabRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:BSUEquipments.CISCOlab_systemunitsDataSet">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:BSUEquipments.CISCOlab_systemunitsDataSetTableAdapters.CISCOlabTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:BSUEquipments.CISCOlab_systemunitsDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(BSUEquipments.CISCOlab_systemunitsDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:BSUEquipments.CISCOlab_systemunitsDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(BSUEquipments.CISCOlab_systemunitsDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:BSUEquipments.CISCOlab_systemunitsDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(BSUEquipments.CISCOlab_systemunitsDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:BSUEquipments.CISCOlab_systemunitsDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:BSUEquipments.CISCOlab_systemunitsDataSetTableAdapters.TableAdapterManager.UpdateAll(BSUEquipments.CISCOlab_systemunitsDataSet)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:BSUEquipments.CISCOlab_systemunitsDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:BSUEquipments.CISCOlab_systemunitsDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:BSUEquipments.CISCOlab_systemunitsDataSetTableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="T:BSUEquipments.ICT_projectors_printers_speakersDataSet.ICT_ppsDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:BSUEquipments.ICT_projectors_printers_speakersDataSet.ICT_ppsRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:BSUEquipments.ICT_projectors_printers_speakersDataSet.ICT_ppsRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:BSUEquipments.ICT_projectors_printers_speakersDataSet">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:BSUEquipments.ICT_projectors_printers_speakersDataSetTableAdapters.ICT_ppsTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:BSUEquipments.ICT_projectors_printers_speakersDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(BSUEquipments.ICT_projectors_printers_speakersDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:BSUEquipments.ICT_projectors_printers_speakersDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(BSUEquipments.ICT_projectors_printers_speakersDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:BSUEquipments.ICT_projectors_printers_speakersDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(BSUEquipments.ICT_projectors_printers_speakersDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:BSUEquipments.ICT_projectors_printers_speakersDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:BSUEquipments.ICT_projectors_printers_speakersDataSetTableAdapters.TableAdapterManager.UpdateAll(BSUEquipments.ICT_projectors_printers_speakersDataSet)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:BSUEquipments.ICT_projectors_printers_speakersDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:BSUEquipments.ICT_projectors_printers_speakersDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:BSUEquipments.ICT_projectors_printers_speakersDataSetTableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="T:BSUEquipments.SoftLAB_systemunitsDataSet.SoftLAB_systemunitsDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:BSUEquipments.SoftLAB_systemunitsDataSet.SoftLAB_systemunitsRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:BSUEquipments.SoftLAB_systemunitsDataSet.SoftLAB_systemunitsRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:BSUEquipments.SoftLAB_systemunitsDataSet">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:BSUEquipments.SoftLAB_systemunitsDataSetTableAdapters.SoftLAB_systemunitsTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:BSUEquipments.SoftLAB_systemunitsDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(BSUEquipments.SoftLAB_systemunitsDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:BSUEquipments.SoftLAB_systemunitsDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(BSUEquipments.SoftLAB_systemunitsDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:BSUEquipments.SoftLAB_systemunitsDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(BSUEquipments.SoftLAB_systemunitsDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:BSUEquipments.SoftLAB_systemunitsDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:BSUEquipments.SoftLAB_systemunitsDataSetTableAdapters.TableAdapterManager.UpdateAll(BSUEquipments.SoftLAB_systemunitsDataSet)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:BSUEquipments.SoftLAB_systemunitsDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:BSUEquipments.SoftLAB_systemunitsDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:BSUEquipments.SoftLAB_systemunitsDataSetTableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="T:BSUEquipments.Guidance_Admission_systemunitsDataSet.Guidance_admission_systemunitsDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:BSUEquipments.Guidance_Admission_systemunitsDataSet.Guidance_admission_systemunitsRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:BSUEquipments.Guidance_Admission_systemunitsDataSet.Guidance_admission_systemunitsRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:BSUEquipments.Guidance_Admission_systemunitsDataSet">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:BSUEquipments.Guidance_Admission_systemunitsDataSetTableAdapters.Guidance_admission_systemunitsTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:BSUEquipments.Guidance_Admission_systemunitsDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(BSUEquipments.Guidance_Admission_systemunitsDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:BSUEquipments.Guidance_Admission_systemunitsDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(BSUEquipments.Guidance_Admission_systemunitsDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:BSUEquipments.Guidance_Admission_systemunitsDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(BSUEquipments.Guidance_Admission_systemunitsDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:BSUEquipments.Guidance_Admission_systemunitsDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:BSUEquipments.Guidance_Admission_systemunitsDataSetTableAdapters.TableAdapterManager.UpdateAll(BSUEquipments.Guidance_Admission_systemunitsDataSet)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:BSUEquipments.Guidance_Admission_systemunitsDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:BSUEquipments.Guidance_Admission_systemunitsDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:BSUEquipments.Guidance_Admission_systemunitsDataSetTableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="T:BSUEquipments.ICT_systemunitsDataSet.ICT_systemunitsDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:BSUEquipments.ICT_systemunitsDataSet.ICT_systemunitsRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:BSUEquipments.ICT_systemunitsDataSet.ICT_systemunitsRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:BSUEquipments.ICT_systemunitsDataSet">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:BSUEquipments.ICT_systemunitsDataSetTableAdapters.ICT_systemunitsTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:BSUEquipments.ICT_systemunitsDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(BSUEquipments.ICT_systemunitsDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:BSUEquipments.ICT_systemunitsDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(BSUEquipments.ICT_systemunitsDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:BSUEquipments.ICT_systemunitsDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(BSUEquipments.ICT_systemunitsDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:BSUEquipments.ICT_systemunitsDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:BSUEquipments.ICT_systemunitsDataSetTableAdapters.TableAdapterManager.UpdateAll(BSUEquipments.ICT_systemunitsDataSet)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:BSUEquipments.ICT_systemunitsDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:BSUEquipments.ICT_systemunitsDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:BSUEquipments.ICT_systemunitsDataSetTableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="T:BSUEquipments.Cashier_Registrar_printers_speakersDataSet.CashierandReg_prt_spkDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:BSUEquipments.Cashier_Registrar_printers_speakersDataSet.CashierandReg_prt_spkRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:BSUEquipments.Cashier_Registrar_printers_speakersDataSet.CashierandReg_prt_spkRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:BSUEquipments.Cashier_Registrar_printers_speakersDataSet">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:BSUEquipments.Cashier_Registrar_printers_speakersDataSetTableAdapters.CashierandReg_prt_spkTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:BSUEquipments.Cashier_Registrar_printers_speakersDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(BSUEquipments.Cashier_Registrar_printers_speakersDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:BSUEquipments.Cashier_Registrar_printers_speakersDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(BSUEquipments.Cashier_Registrar_printers_speakersDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:BSUEquipments.Cashier_Registrar_printers_speakersDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(BSUEquipments.Cashier_Registrar_printers_speakersDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:BSUEquipments.Cashier_Registrar_printers_speakersDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:BSUEquipments.Cashier_Registrar_printers_speakersDataSetTableAdapters.TableAdapterManager.UpdateAll(BSUEquipments.Cashier_Registrar_printers_speakersDataSet)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:BSUEquipments.Cashier_Registrar_printers_speakersDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:BSUEquipments.Cashier_Registrar_printers_speakersDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:BSUEquipments.Cashier_Registrar_printers_speakersDataSetTableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="P:BSUEquipments.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:BSUEquipments.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:BSUEquipments.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+</members>
+</doc>

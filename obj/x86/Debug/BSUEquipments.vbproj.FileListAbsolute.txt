@@ -1,0 +1,121 @@
+C:\Users\MJgutierrez\Desktop\BSU\BSUEquipments\BSUEquipments\bin\Debug\BSUEquipments.exe
+C:\Users\MJgutierrez\Desktop\BSU\BSUEquipments\BSUEquipments\bin\Debug\BSUEquipments.pdb
+C:\Users\MJgutierrez\Desktop\BSU\BSUEquipments\BSUEquipments\bin\Debug\BSUEquipments.xml
+C:\Users\MJgutierrez\Desktop\BSU\BSUEquipments\BSUEquipments\obj\x86\Debug\BSUEquipments.Resources.resources
+C:\Users\MJgutierrez\Desktop\BSU\BSUEquipments\BSUEquipments\obj\x86\Debug\BSUEquipments.vbproj.GenerateResource.Cache
+C:\Users\MJgutierrez\Desktop\BSU\BSUEquipments\BSUEquipments\obj\x86\Debug\BSUEquipments.exe
+C:\Users\MJgutierrez\Desktop\BSU\BSUEquipments\BSUEquipments\obj\x86\Debug\BSUEquipments.xml
+C:\Users\MJgutierrez\Desktop\BSU\BSUEquipments\BSUEquipments\obj\x86\Debug\BSUEquipments.pdb
+C:\Users\MJgutierrez\Desktop\BSU\BSUEquipments\BSUEquipments\bin\Debug\ICT_systemunits.accdb
+C:\Users\MJgutierrez\Desktop\BSU\BSUEquipments\BSUEquipments\bin\Debug\BSUEquipments.exe.config
+C:\Users\MJgutierrez\Desktop\BSU\BSUEquipments\BSUEquipments\obj\x86\Debug\BSUEquipments.vbprojResolveAssemblyReference.cache
+C:\Users\MJgutierrez\Desktop\BSU\BSUEquipments\BSUEquipments\obj\x86\Debug\BSUEquipments.ICT_IGP_Print.resources
+C:\Users\MJgutierrez\Desktop\BSU\BSUEquipments\BSUEquipments\obj\x86\Debug\RdlCompile.cache
+C:\Users\MJgutierrez\Desktop\BSU\BSUEquipments\BSUEquipments\obj\x86\Debug\RdlCompile.compiled
+C:\Users\MJgutierrez\Desktop\BSU\BSUEquipments\BSUEquipments\obj\x86\Debug\BSUEquipments.BSU.resources
+C:\Users\MJgutierrez\Desktop\BSU\BSUEquipments\BSUEquipments\bin\Debug\ICT_projectors-printers-speakers.accdb
+C:\Users\MJgutierrez\Desktop\BSU\BSUEquipments\BSUEquipments\obj\x86\Debug\BSUEquipments.ICTpps.resources
+C:\Users\MJgutierrez\Desktop\BSU\BSUEquipments\BSUEquipments\bin\Debug\SoftLAB_systemunits.accdb
+C:\Users\MJgutierrez\Desktop\BSU\BSUEquipments\BSUEquipments\obj\x86\Debug\BSUEquipments.Softlabsuprint.resources
+C:\Users\MJgutierrez\Desktop\BSU\BSUEquipments\BSUEquipments\bin\Debug\CISCOlab_systemunits.accdb
+C:\Users\MJgutierrez\Desktop\BSU\BSUEquipments\BSUEquipments\obj\x86\Debug\BSUEquipments.Ciscolabsu.resources
+C:\Users\MJgutierrez\Desktop\BSU\BSUEquipments\BSUEquipments\bin\Debug\CISCOlab_routers_switches.accdb
+C:\Users\MJgutierrez\Desktop\BSU\BSUEquipments\BSUEquipments\obj\x86\Debug\BSUEquipments.CISCOrs.resources
+C:\Users\MJgutierrez\Desktop\BSU\BSUEquipments\BSUEquipments\bin\Debug\Cashier_Registrar_systemunits.accdb
+C:\Users\MJgutierrez\Desktop\BSU\BSUEquipments\BSUEquipments\obj\x86\Debug\BSUEquipments.CRsu.resources
+C:\Users\MJgutierrez\Desktop\BSU\BSUEquipments\BSUEquipments\bin\Debug\Cashier_Registrar_printers-speakers.accdb
+C:\Users\MJgutierrez\Desktop\BSU\BSUEquipments\BSUEquipments\obj\x86\Debug\BSUEquipments.CRps.resources
+C:\Users\MJgutierrez\Desktop\BSU\BSUEquipments\BSUEquipments\bin\Debug\Guidance_Admission_systemunits.accdb
+C:\Users\MJgutierrez\Desktop\BSU\BSUEquipments\BSUEquipments\obj\x86\Debug\BSUEquipments.GAsu.resources
+C:\Users\MJgutierrez\Desktop\BSU\BSUEquipments\BSUEquipments\obj\x86\Debug\BSUEquipments.Pin.resources
+D:\Kax Gutierrez\Finals\BSU_2\BSUEquipments\BSUEquipments\bin\Debug\BSUEquipments.exe.config
+D:\Kax Gutierrez\Finals\BSU_2\BSUEquipments\BSUEquipments\obj\x86\Debug\BSUEquipments.exe
+D:\Kax Gutierrez\Finals\BSU_2\BSUEquipments\BSUEquipments\obj\x86\Debug\BSUEquipments.xml
+D:\Kax Gutierrez\Finals\BSU_2\BSUEquipments\BSUEquipments\obj\x86\Debug\BSUEquipments.pdb
+D:\Kax Gutierrez\Finals\BSU_2\BSUEquipments\BSUEquipments\bin\Debug\Cashier_Registrar_printers-speakers.accdb
+D:\Kax Gutierrez\Finals\BSU_2\BSUEquipments\BSUEquipments\bin\Debug\Cashier_Registrar_systemunits.accdb
+D:\Kax Gutierrez\Finals\BSU_2\BSUEquipments\BSUEquipments\bin\Debug\CISCOlab_routers_switches.accdb
+D:\Kax Gutierrez\Finals\BSU_2\BSUEquipments\BSUEquipments\bin\Debug\CISCOlab_systemunits.accdb
+D:\Kax Gutierrez\Finals\BSU_2\BSUEquipments\BSUEquipments\bin\Debug\Guidance_Admission_systemunits.accdb
+D:\Kax Gutierrez\Finals\BSU_2\BSUEquipments\BSUEquipments\bin\Debug\ICT_projectors-printers-speakers.accdb
+D:\Kax Gutierrez\Finals\BSU_2\BSUEquipments\BSUEquipments\bin\Debug\ICT_systemunits.accdb
+D:\Kax Gutierrez\Finals\BSU_2\BSUEquipments\BSUEquipments\bin\Debug\SoftLAB_systemunits.accdb
+D:\Kax Gutierrez\Finals\BSU_2\BSUEquipments\BSUEquipments\bin\Debug\BSUEquipments.exe
+D:\Kax Gutierrez\Finals\BSU_2\BSUEquipments\BSUEquipments\bin\Debug\BSUEquipments.pdb
+D:\Kax Gutierrez\Finals\BSU_2\BSUEquipments\BSUEquipments\bin\Debug\BSUEquipments.xml
+D:\Kax Gutierrez\Finals\BSU_2\BSUEquipments\BSUEquipments\obj\x86\Debug\BSUEquipments.vbprojResolveAssemblyReference.cache
+D:\Kax Gutierrez\Finals\BSU_2\BSUEquipments\BSUEquipments\obj\x86\Debug\BSUEquipments.BSU.resources
+D:\Kax Gutierrez\Finals\BSU_2\BSUEquipments\BSUEquipments\obj\x86\Debug\BSUEquipments.Ciscolabsu.resources
+D:\Kax Gutierrez\Finals\BSU_2\BSUEquipments\BSUEquipments\obj\x86\Debug\BSUEquipments.CISCOrs.resources
+D:\Kax Gutierrez\Finals\BSU_2\BSUEquipments\BSUEquipments\obj\x86\Debug\BSUEquipments.CRps.resources
+D:\Kax Gutierrez\Finals\BSU_2\BSUEquipments\BSUEquipments\obj\x86\Debug\BSUEquipments.CRsu.resources
+D:\Kax Gutierrez\Finals\BSU_2\BSUEquipments\BSUEquipments\obj\x86\Debug\BSUEquipments.GAsu.resources
+D:\Kax Gutierrez\Finals\BSU_2\BSUEquipments\BSUEquipments\obj\x86\Debug\BSUEquipments.ICTpps.resources
+D:\Kax Gutierrez\Finals\BSU_2\BSUEquipments\BSUEquipments\obj\x86\Debug\BSUEquipments.ICT_IGP_Print.resources
+D:\Kax Gutierrez\Finals\BSU_2\BSUEquipments\BSUEquipments\obj\x86\Debug\BSUEquipments.Resources.resources
+D:\Kax Gutierrez\Finals\BSU_2\BSUEquipments\BSUEquipments\obj\x86\Debug\BSUEquipments.Pin.resources
+D:\Kax Gutierrez\Finals\BSU_2\BSUEquipments\BSUEquipments\obj\x86\Debug\BSUEquipments.Softlabsuprint.resources
+D:\Kax Gutierrez\Finals\BSU_2\BSUEquipments\BSUEquipments\obj\x86\Debug\BSUEquipments.vbproj.GenerateResource.Cache
+D:\Kax Gutierrez\Finals\BSU_2\BSUEquipments\BSUEquipments\obj\x86\Debug\RdlCompile.cache
+D:\Kax Gutierrez\Finals\BSU_2\BSUEquipments\BSUEquipments\obj\x86\Debug\RdlCompile.compiled
+C:\Users\Public\Documents\BSU\BSU\BSUEquipments\BSUEquipments\bin\Debug\BSUEquipments.exe.config
+C:\Users\Public\Documents\BSU\BSU\BSUEquipments\BSUEquipments\obj\x86\Debug\BSUEquipments.exe
+C:\Users\Public\Documents\BSU\BSU\BSUEquipments\BSUEquipments\obj\x86\Debug\BSUEquipments.xml
+C:\Users\Public\Documents\BSU\BSU\BSUEquipments\BSUEquipments\obj\x86\Debug\BSUEquipments.pdb
+C:\Users\Public\Documents\BSU\BSU\BSUEquipments\BSUEquipments\bin\Debug\Cashier_Registrar_printers-speakers.accdb
+C:\Users\Public\Documents\BSU\BSU\BSUEquipments\BSUEquipments\bin\Debug\Cashier_Registrar_systemunits.accdb
+C:\Users\Public\Documents\BSU\BSU\BSUEquipments\BSUEquipments\bin\Debug\CISCOlab_routers_switches.accdb
+C:\Users\Public\Documents\BSU\BSU\BSUEquipments\BSUEquipments\bin\Debug\CISCOlab_systemunits.accdb
+C:\Users\Public\Documents\BSU\BSU\BSUEquipments\BSUEquipments\bin\Debug\Guidance_Admission_systemunits.accdb
+C:\Users\Public\Documents\BSU\BSU\BSUEquipments\BSUEquipments\bin\Debug\ICT_projectors-printers-speakers.accdb
+C:\Users\Public\Documents\BSU\BSU\BSUEquipments\BSUEquipments\bin\Debug\ICT_systemunits.accdb
+C:\Users\Public\Documents\BSU\BSU\BSUEquipments\BSUEquipments\bin\Debug\SoftLAB_systemunits.accdb
+C:\Users\Public\Documents\BSU\BSU\BSUEquipments\BSUEquipments\bin\Debug\BSUEquipments.exe
+C:\Users\Public\Documents\BSU\BSU\BSUEquipments\BSUEquipments\bin\Debug\BSUEquipments.pdb
+C:\Users\Public\Documents\BSU\BSU\BSUEquipments\BSUEquipments\bin\Debug\BSUEquipments.xml
+C:\Users\Public\Documents\BSU\BSU\BSUEquipments\BSUEquipments\obj\x86\Debug\BSUEquipments.vbprojResolveAssemblyReference.cache
+C:\Users\Public\Documents\BSU\BSU\BSUEquipments\BSUEquipments\obj\x86\Debug\BSUEquipments.BSU.resources
+C:\Users\Public\Documents\BSU\BSU\BSUEquipments\BSUEquipments\obj\x86\Debug\BSUEquipments.Ciscolabsu.resources
+C:\Users\Public\Documents\BSU\BSU\BSUEquipments\BSUEquipments\obj\x86\Debug\BSUEquipments.CISCOrs.resources
+C:\Users\Public\Documents\BSU\BSU\BSUEquipments\BSUEquipments\obj\x86\Debug\BSUEquipments.CRps.resources
+C:\Users\Public\Documents\BSU\BSU\BSUEquipments\BSUEquipments\obj\x86\Debug\BSUEquipments.CRsu.resources
+C:\Users\Public\Documents\BSU\BSU\BSUEquipments\BSUEquipments\obj\x86\Debug\BSUEquipments.GAsu.resources
+C:\Users\Public\Documents\BSU\BSU\BSUEquipments\BSUEquipments\obj\x86\Debug\BSUEquipments.ICTpps.resources
+C:\Users\Public\Documents\BSU\BSU\BSUEquipments\BSUEquipments\obj\x86\Debug\BSUEquipments.ICT_IGP_Print.resources
+C:\Users\Public\Documents\BSU\BSU\BSUEquipments\BSUEquipments\obj\x86\Debug\BSUEquipments.Resources.resources
+C:\Users\Public\Documents\BSU\BSU\BSUEquipments\BSUEquipments\obj\x86\Debug\BSUEquipments.Pin.resources
+C:\Users\Public\Documents\BSU\BSU\BSUEquipments\BSUEquipments\obj\x86\Debug\BSUEquipments.Softlabsuprint.resources
+C:\Users\Public\Documents\BSU\BSU\BSUEquipments\BSUEquipments\obj\x86\Debug\BSUEquipments.vbproj.GenerateResource.Cache
+C:\Users\Public\Documents\BSU\BSU\BSUEquipments\BSUEquipments\obj\x86\Debug\RdlCompile.cache
+C:\Users\Public\Documents\BSU\BSU\BSUEquipments\BSUEquipments\obj\x86\Debug\RdlCompile.compiled
+C:\Users\MJgutierrez\Desktop\BSU\BSU\BSUEquipments\BSUEquipments\bin\Debug\BSUEquipments.exe.config
+C:\Users\MJgutierrez\Desktop\BSU\BSU\BSUEquipments\BSUEquipments\obj\x86\Debug\BSUEquipments.exe
+C:\Users\MJgutierrez\Desktop\BSU\BSU\BSUEquipments\BSUEquipments\obj\x86\Debug\BSUEquipments.xml
+C:\Users\MJgutierrez\Desktop\BSU\BSU\BSUEquipments\BSUEquipments\obj\x86\Debug\BSUEquipments.pdb
+C:\Users\MJgutierrez\Desktop\BSU\BSU\BSUEquipments\BSUEquipments\bin\Debug\Cashier_Registrar_printers-speakers.accdb
+C:\Users\MJgutierrez\Desktop\BSU\BSU\BSUEquipments\BSUEquipments\bin\Debug\Cashier_Registrar_systemunits.accdb
+C:\Users\MJgutierrez\Desktop\BSU\BSU\BSUEquipments\BSUEquipments\bin\Debug\CISCOlab_routers_switches.accdb
+C:\Users\MJgutierrez\Desktop\BSU\BSU\BSUEquipments\BSUEquipments\bin\Debug\CISCOlab_systemunits.accdb
+C:\Users\MJgutierrez\Desktop\BSU\BSU\BSUEquipments\BSUEquipments\bin\Debug\Guidance_Admission_systemunits.accdb
+C:\Users\MJgutierrez\Desktop\BSU\BSU\BSUEquipments\BSUEquipments\bin\Debug\ICT_projectors-printers-speakers.accdb
+C:\Users\MJgutierrez\Desktop\BSU\BSU\BSUEquipments\BSUEquipments\bin\Debug\ICT_systemunits.accdb
+C:\Users\MJgutierrez\Desktop\BSU\BSU\BSUEquipments\BSUEquipments\bin\Debug\SoftLAB_systemunits.accdb
+C:\Users\MJgutierrez\Desktop\BSU\BSU\BSUEquipments\BSUEquipments\bin\Debug\BSUEquipments.exe
+C:\Users\MJgutierrez\Desktop\BSU\BSU\BSUEquipments\BSUEquipments\bin\Debug\BSUEquipments.pdb
+C:\Users\MJgutierrez\Desktop\BSU\BSU\BSUEquipments\BSUEquipments\bin\Debug\BSUEquipments.xml
+C:\Users\MJgutierrez\Desktop\BSU\BSU\BSUEquipments\BSUEquipments\obj\x86\Debug\BSUEquipments.vbprojResolveAssemblyReference.cache
+C:\Users\MJgutierrez\Desktop\BSU\BSU\BSUEquipments\BSUEquipments\obj\x86\Debug\BSUEquipments.Adminpin.resources
+C:\Users\MJgutierrez\Desktop\BSU\BSU\BSUEquipments\BSUEquipments\obj\x86\Debug\BSUEquipments.BSU.resources
+C:\Users\MJgutierrez\Desktop\BSU\BSU\BSUEquipments\BSUEquipments\obj\x86\Debug\BSUEquipments.Ciscolabsu.resources
+C:\Users\MJgutierrez\Desktop\BSU\BSU\BSUEquipments\BSUEquipments\obj\x86\Debug\BSUEquipments.CISCOrs.resources
+C:\Users\MJgutierrez\Desktop\BSU\BSU\BSUEquipments\BSUEquipments\obj\x86\Debug\BSUEquipments.CRps.resources
+C:\Users\MJgutierrez\Desktop\BSU\BSU\BSUEquipments\BSUEquipments\obj\x86\Debug\BSUEquipments.CRsu.resources
+C:\Users\MJgutierrez\Desktop\BSU\BSU\BSUEquipments\BSUEquipments\obj\x86\Debug\BSUEquipments.GAsu.resources
+C:\Users\MJgutierrez\Desktop\BSU\BSU\BSUEquipments\BSUEquipments\obj\x86\Debug\BSUEquipments.ICTpps.resources
+C:\Users\MJgutierrez\Desktop\BSU\BSU\BSUEquipments\BSUEquipments\obj\x86\Debug\BSUEquipments.ICT_IGP_Print.resources
+C:\Users\MJgutierrez\Desktop\BSU\BSU\BSUEquipments\BSUEquipments\obj\x86\Debug\BSUEquipments.Resources.resources
+C:\Users\MJgutierrez\Desktop\BSU\BSU\BSUEquipments\BSUEquipments\obj\x86\Debug\BSUEquipments.Pin.resources
+C:\Users\MJgutierrez\Desktop\BSU\BSU\BSUEquipments\BSUEquipments\obj\x86\Debug\BSUEquipments.Softlabsuprint.resources
+C:\Users\MJgutierrez\Desktop\BSU\BSU\BSUEquipments\BSUEquipments\obj\x86\Debug\BSUEquipments.vbproj.GenerateResource.Cache
+C:\Users\MJgutierrez\Desktop\BSU\BSU\BSUEquipments\BSUEquipments\obj\x86\Debug\RdlCompile.cache
+C:\Users\MJgutierrez\Desktop\BSU\BSU\BSUEquipments\BSUEquipments\obj\x86\Debug\RdlCompile.compiled
